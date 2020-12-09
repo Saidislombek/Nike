@@ -1,0 +1,6 @@
+ <!-- JQuery-3.5.1 File -->
+  <script src="js/jquery-3.5.1.min.js"></script>
+  <!-- Bootstrap4 JS file -->
+  <script src="js/bootstrap.min.js"></script>
+  <!-- Main File JS -->
+  <script src="js/main.js"></script>
